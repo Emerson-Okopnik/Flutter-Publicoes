@@ -2,10 +2,13 @@
 
 ## Funcionalidades 🛠️
 
-Home Page: Exibe uma lista de publicações contendo texto e imagens. Cada publicação pode ser curtida.
-Nova Publicação: Permite que o usuário:
+### Home Page: Exibe uma lista de publicações contendo texto e imagens. Cada publicação pode ser curtida.
+
+### Nova Publicação: Permite que o usuário:
 Escreva uma mensagem.
+
 Anexe uma imagem da galeria ou tire uma foto usando a câmera.
+
 Curtidas: Cada publicação pode receber curtidas, e o número de curtidas é atualizado dinamicamente.
 
 ## Estrutura do Código 🧩
