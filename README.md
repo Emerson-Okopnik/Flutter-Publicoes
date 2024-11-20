@@ -1,16 +1,18 @@
-# trabalho_flutter
+# Publicações com Imagem e Curtidas 📸
 
-A new Flutter project.
+## Funcionalidades 🛠️
 
-## Getting Started
+Home Page: Exibe uma lista de publicações contendo texto e imagens. Cada publicação pode ser curtida.
+Nova Publicação: Permite que o usuário:
+Escreva uma mensagem.
+Anexe uma imagem da galeria ou tire uma foto usando a câmera.
+Curtidas: Cada publicação pode receber curtidas, e o número de curtidas é atualizado dinamicamente.
 
-This project is a starting point for a Flutter application.
+## Estrutura do Código 🧩
+O aplicativo é dividido em duas telas principais:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+HomePage:
+Mostra as publicações em uma lista.
+Gerencia curtidas e estados de interação.
+PostPage:
+Permite a criação de novas publicações com texto e imagem.
